@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Onlycoding\bin\Debug\net8.0\Onlycoding.exe
+C:\Users\hp\source\repos\Onlycoding\bin\Debug\net8.0\Onlycoding.deps.json
+C:\Users\hp\source\repos\Onlycoding\bin\Debug\net8.0\Onlycoding.runtimeconfig.json
+C:\Users\hp\source\repos\Onlycoding\bin\Debug\net8.0\Onlycoding.dll
+C:\Users\hp\source\repos\Onlycoding\bin\Debug\net8.0\Onlycoding.pdb
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\Onlycoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\Onlycoding.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\Onlycoding.AssemblyInfo.cs
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\Onlycoding.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\Onlycoding.dll
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\refint\Onlycoding.dll
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\Onlycoding.pdb
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\Onlycoding.genruntimeconfig.cache
+C:\Users\hp\source\repos\Onlycoding\obj\Debug\net8.0\ref\Onlycoding.dll

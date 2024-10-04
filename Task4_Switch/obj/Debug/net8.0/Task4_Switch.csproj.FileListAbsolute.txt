@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Task4_Switch\bin\Debug\net8.0\Task4_Switch.exe
+C:\Users\hp\source\repos\Task4_Switch\bin\Debug\net8.0\Task4_Switch.deps.json
+C:\Users\hp\source\repos\Task4_Switch\bin\Debug\net8.0\Task4_Switch.runtimeconfig.json
+C:\Users\hp\source\repos\Task4_Switch\bin\Debug\net8.0\Task4_Switch.dll
+C:\Users\hp\source\repos\Task4_Switch\bin\Debug\net8.0\Task4_Switch.pdb
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\Task4_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\Task4_Switch.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\Task4_Switch.AssemblyInfo.cs
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\Task4_Switch.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\Task4_Switch.dll
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\refint\Task4_Switch.dll
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\Task4_Switch.pdb
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\Task4_Switch.genruntimeconfig.cache
+C:\Users\hp\source\repos\Task4_Switch\obj\Debug\net8.0\ref\Task4_Switch.dll

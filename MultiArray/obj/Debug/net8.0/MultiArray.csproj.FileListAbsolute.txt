@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\MultiArray\bin\Debug\net8.0\MultiArray.exe
+C:\Users\hp\source\repos\MultiArray\bin\Debug\net8.0\MultiArray.deps.json
+C:\Users\hp\source\repos\MultiArray\bin\Debug\net8.0\MultiArray.runtimeconfig.json
+C:\Users\hp\source\repos\MultiArray\bin\Debug\net8.0\MultiArray.dll
+C:\Users\hp\source\repos\MultiArray\bin\Debug\net8.0\MultiArray.pdb
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\MultiArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\MultiArray.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\MultiArray.AssemblyInfo.cs
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\MultiArray.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\MultiArray.dll
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\refint\MultiArray.dll
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\MultiArray.pdb
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\MultiArray.genruntimeconfig.cache
+C:\Users\hp\source\repos\MultiArray\obj\Debug\net8.0\ref\MultiArray.dll

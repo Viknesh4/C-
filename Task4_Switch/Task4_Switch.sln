@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4_Switch", "Task4_Switch.csproj", "{0DC9D340-6572-4E68-8231-BB35880EB3EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC9D340-6572-4E68-8231-BB35880EB3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DC9D340-6572-4E68-8231-BB35880EB3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DC9D340-6572-4E68-8231-BB35880EB3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DC9D340-6572-4E68-8231-BB35880EB3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087C3D1C-489F-4ED3-B7EE-3930F818BAB3}
+	EndGlobalSection
+EndGlobal

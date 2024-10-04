@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Day2Tasks\bin\Debug\net8.0\Day2Tasks.exe
+C:\Users\hp\source\repos\Day2Tasks\bin\Debug\net8.0\Day2Tasks.deps.json
+C:\Users\hp\source\repos\Day2Tasks\bin\Debug\net8.0\Day2Tasks.runtimeconfig.json
+C:\Users\hp\source\repos\Day2Tasks\bin\Debug\net8.0\Day2Tasks.dll
+C:\Users\hp\source\repos\Day2Tasks\bin\Debug\net8.0\Day2Tasks.pdb
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\Day2Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\Day2Tasks.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\Day2Tasks.AssemblyInfo.cs
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\Day2Tasks.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\Day2Tasks.dll
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\refint\Day2Tasks.dll
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\Day2Tasks.pdb
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\Day2Tasks.genruntimeconfig.cache
+C:\Users\hp\source\repos\Day2Tasks\obj\Debug\net8.0\ref\Day2Tasks.dll

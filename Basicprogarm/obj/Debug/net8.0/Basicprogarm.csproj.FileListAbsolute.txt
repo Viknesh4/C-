@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Basicprogarm\bin\Debug\net8.0\Basicprogarm.exe
+C:\Users\hp\source\repos\Basicprogarm\bin\Debug\net8.0\Basicprogarm.deps.json
+C:\Users\hp\source\repos\Basicprogarm\bin\Debug\net8.0\Basicprogarm.runtimeconfig.json
+C:\Users\hp\source\repos\Basicprogarm\bin\Debug\net8.0\Basicprogarm.dll
+C:\Users\hp\source\repos\Basicprogarm\bin\Debug\net8.0\Basicprogarm.pdb
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\Basicprogarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\Basicprogarm.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\Basicprogarm.AssemblyInfo.cs
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\Basicprogarm.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\Basicprogarm.dll
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\refint\Basicprogarm.dll
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\Basicprogarm.pdb
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\Basicprogarm.genruntimeconfig.cache
+C:\Users\hp\source\repos\Basicprogarm\obj\Debug\net8.0\ref\Basicprogarm.dll

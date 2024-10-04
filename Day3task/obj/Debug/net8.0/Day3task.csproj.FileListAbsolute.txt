@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\Day3task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\Day3task.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\Day3task.AssemblyInfo.cs
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\Day3task.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Day3task\bin\Debug\net8.0\Day3task.exe
+C:\Users\hp\source\repos\Day3task\bin\Debug\net8.0\Day3task.deps.json
+C:\Users\hp\source\repos\Day3task\bin\Debug\net8.0\Day3task.runtimeconfig.json
+C:\Users\hp\source\repos\Day3task\bin\Debug\net8.0\Day3task.dll
+C:\Users\hp\source\repos\Day3task\bin\Debug\net8.0\Day3task.pdb
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\Day3task.dll
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\refint\Day3task.dll
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\Day3task.pdb
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\Day3task.genruntimeconfig.cache
+C:\Users\hp\source\repos\Day3task\obj\Debug\net8.0\ref\Day3task.dll
